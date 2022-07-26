@@ -56,10 +56,10 @@
 
 
 
-/*-------Alinging Text and Img on Right and Left Side-------
+/*-------Alinging Text and Img on Right and Left Side-------*/
 .left{
     text-align: left;
-    color: white;
+    color: black;
     font-style:italic;
     font-size: 50px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -68,13 +68,13 @@
 
 .right{
     text-align: right;
-    color: white;
+    color: black;
     font-style:italic;
     font-size: 50px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     transition: 0.5s;
 }
-*/
+
 /*-----------Starting Image-------------*/
 .top_img{
     display: block;
@@ -86,7 +86,7 @@
 
 }
 
-/*----------------Scroll Bar-----------------
+/*----------------Scroll Bar-----------------*/
 ::-webkit-scrollbar {
     width: 5px;
 }
@@ -104,4 +104,4 @@
     background: rgba(221,195,130, 0.4);    
     transition: 0.3s;
     overflow: scroll;
-} */
+} 
