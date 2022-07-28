@@ -35,7 +35,7 @@
     border-radius: 0;
 }
 
-.navbar a:active {
+.navbar a.active {
     transform: translate3D(0, 1px, 0) scale(1.07);
     background-color: #F2DD95;
     border-radius: 10px;
